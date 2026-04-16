@@ -7,7 +7,8 @@
       "Bash(./gradlew compileJava *)",
       "Bash(./gradlew --version)",
       "Bash(./gradlew test *)",
-      "Bash(./gradlew build *)"
+      "Bash(./gradlew build *)",
+      "Bash(xargs grep *)"
     ]
   }
 }
